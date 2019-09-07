@@ -1,3 +1,2 @@
 # Pagina
-# chupalo franco
-# chupalo Adolfo
+## solo trabaja Patricio Calderon
